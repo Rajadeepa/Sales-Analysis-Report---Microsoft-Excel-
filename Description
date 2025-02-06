@@ -1,42 +1,32 @@
-# Sales Analysis Report – Microsoft Excel
+Sales Analysis Report – Microsoft Excel
+This project involves creating a Sales Analysis Report using Microsoft Excel, aimed at providing insightful business intelligence through data analysis and visualization. The report is divided into three sheets, each serving a unique function in the analysis process.
 
-This project involves creating a **Sales Analysis Report** using Microsoft Excel to provide insightful business intelligence through data analysis and visualization. The report is divided into three sheets, each serving a unique function in the analysis process.
-
-## Project Structure
-
+Project Structure
 The Excel workbook contains the following sheets:
 
-### 1. Dataset
-- The **Dataset** sheet includes raw sales data, with columns for sales transactions, product names, categories, quantities, prices, discounts, sales regions, and dates.
-- The data is cleaned and structured to ensure accuracy and consistency for further analysis.
-
-### 2. Pivot Tables
-- The **Pivot Tables** sheet uses the raw data from the **Dataset** sheet to generate summarized views.
-- Key insights provided include:
-  - Total sales by region
-  - Top-selling products
-  - Monthly sales trends
-  - Customer performance
-- Pivot tables allow for dynamic data exploration and filtering.
-
-### 3. Dashboard
-- The **Dashboard** sheet visually presents key metrics and insights derived from the dataset and pivot tables.
-- It includes various charts, such as:
-  - Bar charts
-  - Line charts
-  - Pie charts
-- The dashboard provides an interactive, easy-to-understand overview of sales performance and trends.
-
-## Features
-- Data cleaning and preprocessing of raw sales data.
-- Interactive pivot tables for in-depth data analysis.
-- A visually appealing dashboard for decision-makers, providing quick insights into business performance.
-
-## Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Data Analysis)
-
-## Installation
+1. Dataset
+The Dataset sheet includes raw sales data, with columns for sales transactions, product names, categories, quantities, prices, discounts, sales regions, and dates.
+The data is cleaned and structured to ensure accuracy and consistency for further analysis.
+2. Pivot Tables
+The Pivot Tables sheet uses the raw data from the Dataset sheet to generate summarized views.
+Key insights provided include:
+Total sales by region
+Top-selling products
+Monthly sales trends
+Customer performance
+Pivot tables allow for dynamic data exploration and filtering.
+3. Dashboard
+The Dashboard sheet visually presents key metrics and insights derived from the dataset and pivot tables.
+It includes various charts, such as:
+Bar charts
+Line charts
+Pie charts
+The dashboard provides an interactive and easy-to-understand overview of sales performance and trends.
+Features
+Data cleaning and preprocessing of raw sales data.
+Interactive pivot tables for in-depth data analysis.
+A visually appealing dashboard for decision-makers, providing quick insights into business performance.
+Tools Used
+Microsoft Excel (Pivot Tables, Charts, Data Analysis)
+Installation
 No installation required. Simply download the Excel workbook and open it in Microsoft Excel.
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
